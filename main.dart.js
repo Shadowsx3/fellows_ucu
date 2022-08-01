@@ -34367,7 +34367,7 @@ aW(){var s=A.WR()
 this.d=s
 A.b(s,"_scrollController").ac(0,this.gUu())
 this.bs()},
-I(a,b){var s,r,q=this,p=null,o="images/portada.png",n=t.w,m=b.N(n).f.a,l=q.e,k=m.b,j=k*0.4
+I(a,b){var s,r,q=this,p=null,o="assets/images/portada.png",n=t.w,m=b.N(n).f.a,l=q.e,k=m.b,j=k*0.4
 q.f=l<j?l/j:1
 l=b.N(n).f
 j=q.f
@@ -34378,7 +34378,7 @@ j=A.b(q.d,"_scrollController")
 n=b.N(n).f.a.a<800?A.C8(o,B.cU,B.bV):A.C8(o,B.eg,B.bV)
 s=t.s
 r=t.D
-return new A.vr(!0,l,A.abI(A.eb(A.a([A.vW(B.bT,A.a([A.bU(n,k*0.45,m.a),A.eb(A.a([new A.tf(m,p),A.eb(A.a([new A.BC(m,p),new A.BD(m,A.a(["images/salto.webp","images/este.jpg","images/montevideo.jpg"],s),A.a(["Salto","Punta del Este","Montevideo"],s),A.a(["https://ucu.edu.uy/es/salto","https://ucu.edu.uy/es/puntadeleste","https://ucu.edu.uy/es/node/108"],s),p)],r),B.E,B.G,B.B)],r),B.E,B.G,B.B)],r),B.cB),new A.Bb(m,p),new A.rL(p),A.bU(p,k/10,p),B.u0],r),B.E,B.G,B.B),j,B.v9,B.aW),p)}}
+return new A.vr(!0,l,A.abI(A.eb(A.a([A.vW(B.bT,A.a([A.bU(n,k*0.45,m.a),A.eb(A.a([new A.tf(m,p),A.eb(A.a([new A.BC(m,p),new A.BD(m,A.a(["assets/images/salto.webp","assets/images/este.jpg","assets/images/montevideo.jpg"],s),A.a(["Salto","Punta del Este","Montevideo"],s),A.a(["https://ucu.edu.uy/es/salto","https://ucu.edu.uy/es/puntadeleste","https://ucu.edu.uy/es/node/108"],s),p)],r),B.E,B.G,B.B)],r),B.E,B.G,B.B)],r),B.cB),new A.Bb(m,p),new A.rL(p),A.bU(p,k/10,p),B.u0],r),B.E,B.G,B.B),j,B.v9,B.aW),p)}}
 A.a1j.prototype={
 $0(){var s=this.a,r=B.b.gbe(A.b(s.d,"_scrollController").d).as
 r.toString
@@ -34393,7 +34393,7 @@ I(a,b){var s=this,r=null
 return new A.c6(new A.aF(0,0,0,20),A.eb(A.a([A.cU(s.c,A.co(r,r,B.c1,r,r,r,r,r,r,r,r,18,r,B.a2,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.bU(r,10,r),A.cU(s.d,A.co(r,r,B.b_,r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.bU(r,5,r),A.cU(s.e,A.co(r,r,B.b_,r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.bU(r,5,r),A.cU(s.f,A.co(r,r,B.b_,r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],t.D),B.b0,B.G,B.B),r)}}
 A.rL.prototype={
 an(){var s=t.s
-return new A.Hb(new A.NM(new A.aR(new A.a6($.a5,t.wC),t.Fe)),[!1,!1,!1,!1,!1,!1,!1],[!0,!1,!1,!1,!1,!1,!1],A.a(["images/ithaka.webp","images/ignis.jpeg","images/agora.jpg","images/berit.jpg","images/idiomas.jpg","images/ludus.jpg"],s),A.a(["ITHAKA","IGNIS","\xc1GORA","BERIT","IDIOMAS","LUDUS"],s),A.a(["https://www.ithaka.ucu.edu.uy/","https://ucu.edu.uy/es/CentroIgnis","https://ucu.edu.uy/es/centro-agora","https://ucu.edu.uy/es/centro-berit","https://ucu.edu.uy/es/idiomas","https://ucu.edu.uy/es/ludus"],s),B.n)}}
+return new A.Hb(new A.NM(new A.aR(new A.a6($.a5,t.wC),t.Fe)),[!1,!1,!1,!1,!1,!1,!1],[!0,!1,!1,!1,!1,!1,!1],A.a(["assets/images/ithaka.webp","assets/images/ignis.jpeg","assets/images/agora.jpg","assets/images/berit.jpg","assets/images/idiomas.jpg","assets/images/ludus.jpg"],s),A.a(["ITHAKA","IGNIS","\xc1GORA","BERIT","IDIOMAS","LUDUS"],s),A.a(["https://www.ithaka.ucu.edu.uy/","https://ucu.edu.uy/es/CentroIgnis","https://ucu.edu.uy/es/centro-agora","https://ucu.edu.uy/es/centro-berit","https://ucu.edu.uy/es/idiomas","https://ucu.edu.uy/es/ludus"],s),B.n)}}
 A.Hb.prototype={
 H9(a){var s=A.aaN(this.x,new A.a0I(this),t.N,t.Eu)
 return A.ag(s,!0,s.$ti.i("m.E"))},
