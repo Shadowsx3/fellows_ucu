@@ -34367,18 +34367,18 @@ aW(){var s=A.WR()
 this.d=s
 A.b(s,"_scrollController").ac(0,this.gUq())
 this.br()},
-I(a,b){var s,r,q=this,p=null,o="assets/images/portada.png",n=t.w,m=b.N(n).f.a,l=q.e,k=m.b,j=k*0.4
-q.f=l<j?l/j:1
-l=b.N(n).f
-j=q.f
-if(l.a.a<800){l=A.aI(B.d.ai(255*j),38,50,56)
-j=A.cU("UCU",A.co(p,p,B.b_,p,p,p,p,p,"Montserrat",p,p,20,p,B.r,p,p,!0,p,3,p,p,p,p,p,p),p,p)
-l=new A.r3(j,0,l,new A.xT(p,p,1/0,56),p)}else l=new A.uZ(new A.wl(j,p),new A.P(m.a,1000),p)
-j=A.b(q.d,"_scrollController")
-n=b.N(n).f.a.a<800?A.C8(o,B.cU,B.bV):A.C8(o,B.eg,B.bV)
+I(a,b){var s,r,q=this,p=null,o=t.w,n=b.N(o).f.a,m=q.e,l=n.b,k=l*0.4
+q.f=m<k?m/k:1
+m=b.N(o).f
+k=q.f
+if(m.a.a<800){m=A.aI(B.d.ai(255*k),38,50,56)
+k=A.cU("UCU",A.co(p,p,B.b_,p,p,p,p,p,"Montserrat",p,p,20,p,B.r,p,p,!0,p,3,p,p,p,p,p,p),p,p)
+m=new A.r3(k,0,m,new A.xT(p,p,1/0,56),p)}else m=new A.uZ(new A.wl(k,p),new A.P(n.a,1000),p)
+k=A.b(q.d,"_scrollController")
+o=b.N(o).f.a.a<800?A.C8("assets/images/dentro.jpg",B.cU,B.bV):A.C8("assets/images/portada.png",B.eg,B.bV)
 s=t.s
 r=t.D
-return new A.vr(!0,l,A.abI(A.eb(A.a([A.vW(B.bT,A.a([A.bU(n,k*0.45,m.a),A.eb(A.a([new A.tf(m,p),A.eb(A.a([new A.BC(m,p),new A.BD(m,A.a(["assets/images/salto.webp","assets/images/este.jpg","assets/images/montevideo.jpg"],s),A.a(["Salto","Punta del Este","Montevideo"],s),A.a(["https://ucu.edu.uy/es/salto","https://ucu.edu.uy/es/puntadeleste","https://ucu.edu.uy/es/node/108"],s),p)],r),B.E,B.G,B.B)],r),B.E,B.G,B.B)],r),B.cB),new A.Bb(m,p),new A.rL(p),A.bU(p,k/10,p),new A.zS(p)],r),B.E,B.G,B.B),j,new A.ru(p),B.aW),p)}}
+return new A.vr(!0,m,A.abI(A.eb(A.a([A.vW(B.bT,A.a([A.bU(o,l*0.45,n.a),A.eb(A.a([new A.tf(n,p),A.eb(A.a([new A.BC(n,p),new A.BD(n,A.a(["assets/images/salto.webp","assets/images/este.jpg","assets/images/montevideo.jpg"],s),A.a(["Salto","Punta del Este","Montevideo"],s),A.a(["https://ucu.edu.uy/es/salto","https://ucu.edu.uy/es/puntadeleste","https://ucu.edu.uy/es/node/108"],s),p)],r),B.E,B.G,B.B)],r),B.E,B.G,B.B)],r),B.cB),new A.Bb(n,p),new A.rL(p),A.bU(p,l/10,p),new A.zS(p)],r),B.E,B.G,B.B),k,new A.ru(p),B.aW),p)}}
 A.a1j.prototype={
 $0(){var s=this.a,r=B.b.gbe(A.b(s.d,"_scrollController").d).as
 r.toString
@@ -34475,7 +34475,7 @@ $0(){A.zk(A.pD(this.a.f[this.b],0,null))
 return A.cf([null],t.H)},
 $S:0}
 A.tf.prototype={
-an(){return new A.HA([!1,!1,!1,!1],A.a([],t.D),A.a(["UCU","The team","The project","Contact"],t.s),A.a([B.y2,B.y1,B.y4,B.y6],t.G1),B.n)}}
+an(){return new A.HA([!1,!1,!1,!1],A.a([],t.D),A.a(["UCU","The team","The project","Contact"],t.s),A.a([B.y1,B.y4,B.y6,B.y3],t.G1),B.n)}}
 A.HA.prototype={
 H6(){var s,r,q,p,o,n,m=this,l=null,k=m.e
 B.b.sm(k,0)
@@ -58623,17 +58623,17 @@ B.a7=new A.nP(1,"opaque")
 B.cX=new A.nP(2,"translucent")
 B.y_=new A.eQ(57490,!0)
 B.y0=new A.eQ(57491,!0)
-B.y1=new A.eQ(57782,!1)
-B.y2=new A.eQ(58283,!1)
+B.y1=new A.eQ(58283,!1)
+B.y3=new A.eQ(58348,!1)
 B.y4=new A.eQ(58502,!1)
-B.y6=new A.eQ(59097,!1)
+B.y6=new A.eQ(61474,!1)
 B.v=new A.K(3707764736)
 B.y7=new A.cv(B.v,null,null,null)
 B.l2=new A.cv(B.m,null,null,null)
 B.ek=new A.cv(B.m,1,24,null)
 B.el=new A.cv(B.j,null,null,null)
-B.y3=new A.eQ(58332,!1)
-B.l3=new A.nR(B.y3,null,null)
+B.y2=new A.eQ(58332,!1)
+B.l3=new A.nR(B.y2,null,null)
 B.y5=new A.eQ(58727,!1)
 B.y8=new A.nR(B.y5,null,null)
 B.l4=new A.tu(0,"rawRgba")
